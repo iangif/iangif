@@ -1,17 +1,21 @@
 ## Hi, I'm Ian
 
-I study Computer Science and AI at McGill, with a minor in Linguistics. I'm currently doing research on how language models learn and represent linguistic structure, and I build the software those experiments run on: annotation platforms, benchmarks, and data pipelines.
+I study Computer Science and AI at McGill, with a minor in Linguistics. My research so far looks at how models learn and represent structure, mostly in language, and I build the software those experiments run on: annotation platforms, benchmarks and data pipelines. I'm interested in ML more broadly too, including vision, reasoning and planning.
+
+Most of my experience is in research labs, but I'm just as interested in industry roles where I can build and ship ML systems.
+
+**Looking for Summer 2027 internships** in ML research, ML engineering, research engineering, and software engineering.
 
 **Co-first-authored paper at [CoNLL 2026](https://aclanthology.org/2026.conll-main.40/)** · Research at Mila, MCQLL and McGill AI Lab · Full-stack tools used by lab researchers
 
-[Website](https://iangif.github.io) · [LinkedIn](https://linkedin.com/in/ian-gifford88) · [Email](mailto:ian.gifford@mail.mcgill.ca)
+[Website](https://iangif.github.io) · [LinkedIn](https://linkedin.com/in/ian-gifford88) · [Email](mailto:iangiffordwork@gmail.com)
 
 ---
 
 ### MCQLL: research infrastructure
 *Software Engineering Research Assistant, Montréal Computational & Quantitative Linguistics Lab · 2026–present*
 
-I build the lab's pipeline for a hand-verified, multilingual formant dataset, from annotation to benchmarking.
+I build the lab's pipeline for a hand-verified formant dataset in English, French, Japanese and Uyghur, from annotation to benchmarking.
 
 <table>
 <tr>
@@ -22,7 +26,7 @@ I build the lab's pipeline for a hand-verified, multilingual formant dataset, fr
 A keyboard-first FastAPI and JavaScript app, plus server sync, reconciliation, and adjudication. It replaced a manual workflow: **5,000+ tokens** labelled, and batch management cut from **~40 to ~10 hours**.
 
 **[formant-benchmark](https://github.com/iangif/formant-benchmark)**<br>
-An extensible benchmark for formant trackers. Datasets and trackers plug in through adapters, runs are digest-cached and reproducible, and the evaluation is frame-level.
+An extensible benchmark for formant trackers, currently comparing **3 trackers on 3 corpora in 4 languages**. Datasets and trackers plug in through adapters, runs are cached and reproducible, and evaluation is frame-level.
 
 </td>
 </tr>
@@ -32,12 +36,14 @@ An extensible benchmark for formant trackers. Datasets and trackers plug in thro
 *Student Researcher → Team Lead · 2025–present*
 
 - **[age-of-acquisition](https://github.com/McGill-AI-Lab/age-of-acquisition)**: Does learning words in the order children do shape word embeddings? Built on an ≈18M-sentence curriculum pipeline and 40+ Word2Vec experiments. AoA-ordered training predicts human acquisition norms with ρ = 0.93, compared with 0.56 for shuffled training. [Paper, CoNLL 2026 →](https://aclanthology.org/2026.conll-main.40/)
+  <br><sub>Presented at COGSURF · McGill Canadian Conference for Linguistics Undergraduates · McGill Undergraduate Science Showcase</sub>
 - **Diffusion LM probing** *(in progress)*: I lead a team of 4 tracing how syntactic and semantic knowledge emerges during diffusion language model denoising, using linear probes. Code coming soon.
 
 ### Mila: interpretability
 *Research Intern · 2026–present*
 
-- **Induced grammar categories** *(in progress)*: An analysis framework for the categories learned by visually grounded grammar induction models. It covers 300K+ tokens and ~10 models, and compares lexical and contextual feature profiles across models.
+- **Induced grammar categories** *(in progress)*: An analysis framework for the categories learned by visually grounded grammar induction models. It covers 300K+ tokens and ~10 models, and compares lexical and contextual feature profiles across models. It replaces manual category-by-category analysis and works across model families.
 
+<sub>**Also:** [dog vocalization classifier](https://github.com/sarayangrh/Cross-Species-Translation) (CNNs, 83% breed accuracy) · [pronunciation tutor](https://github.com/iangif/g2p-pronunciation-tutor) (G2P + indexed native audio)</sub>
 
 <sub>Python · PyTorch · FastAPI · SQLAlchemy · pandas / Parquet · JavaScript · SLURM · AWS</sub>
