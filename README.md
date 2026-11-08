@@ -2,7 +2,7 @@
 
 <img align="right" width="170" src="assets/go-problem.svg" alt="Go life-and-death problem: Black to play and kill">
 
-I study Computer Science and AI at McGill, with a minor in Linguistics. My research so far looks at how models learn and represent structure, mostly in language, and I build the software those experiments run on: annotation platforms, benchmarks, and data pipelines. I'm interested in ML more broadly too, including vision, reasoning and planning. In my free time, I train my own planning and search on a Go board :D &rarr;
+I study Computer Science and AI at McGill, with a minor in Linguistics. My research so far looks at how models learn and represent structure, mostly in language, and I build the software those experiments run on: annotation platforms, benchmarks, and data pipelines. I'm interested in ML more broadly too, including vision, reasoning, and planning. In my free time, I train my own planning and search on a Go board :D &rarr;
 
 
 Most of my experience is in research labs, but I'm just as interested in industry roles where I can build and ship ML systems.
