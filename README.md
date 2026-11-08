@@ -1,6 +1,6 @@
 ## Hi, I'm Ian
 
-I study Computer Science and AI at McGill, with a minor in Linguistics. My research so far looks at how models learn and represent structure, mostly in language, and I build the software those experiments run on: annotation platforms, benchmarks and data pipelines. I'm interested in ML more broadly too, including vision, reasoning and planning.
+I study Computer Science and AI at McGill, with a minor in Linguistics. My research so far looks at how models learn and represent structure, mostly in language, and I build the software those experiments run on: annotation platforms, benchmarks and data pipelines. I'm interested in ML more broadly too, including vision, reasoning and planning. A fun fact is that I'm currently trying to become really good at Go/Baduk!
 
 Most of my experience is in research labs, but I'm just as interested in industry roles where I can build and ship ML systems.
 
