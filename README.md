@@ -36,7 +36,7 @@ An extensible benchmark for formant trackers, currently comparing **3 trackers o
 *Student Researcher → Team Lead · 2025–present*
 
 - **[age-of-acquisition](https://github.com/McGill-AI-Lab/age-of-acquisition)**: Does learning words in the order children do shape word embeddings? Built on an ≈18M-sentence curriculum pipeline and 40+ Word2Vec experiments. AoA-ordered training predicts human acquisition norms with ρ = 0.93, compared with 0.56 for shuffled training. [Paper, CoNLL 2026 →](https://aclanthology.org/2026.conll-main.40/)
-  <br><sub>Presented at COGSURF · McGill Canadian Conference for Linguistics Undergraduates · McGill Undergraduate Science Showcase</sub>
+  <br><sub>Presented at the Cognitive Science Undergraduate Research Forum (CogSURF) · McGill Canadian Conference for Linguistics Undergraduates (MCCLU) · McGill Undergraduate Science Showcase</sub>
 - **Diffusion LM probing** *(in progress)*: I lead a team of 4 tracing how syntactic and semantic knowledge emerges during diffusion language model denoising, using linear probes. Code coming soon.
 
 ### Mila: interpretability
